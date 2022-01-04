@@ -68,4 +68,6 @@ Git Commands
 
 ### Ignore Version Control
 
+| Command | Description |
+| ------- | ----------- |
 | `.gitignore` | Ignore files |
