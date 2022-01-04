@@ -2,8 +2,8 @@ Git Commands
 ============
 
 ###Setup Email and Username
-| git config --global user.email "amanvista@gmail.com" |
-| git config --global user.name "Aman Bisht" |
+* git config --global user.email "amanvista@gmail.com"
+* git config --global user.name "Aman Bisht"
 
 ### Getting & Creating Projects
 
