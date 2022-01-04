@@ -1,9 +1,17 @@
 Git Commands
 ============
 
+### Creating RSA key in MAC
+* ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+* eval "$(ssh-agent -s)"
+* cd .ssh
+* cat id_rsa.pub
+
 ### Setup Email and Username
 * git config --global user.email "amanvista@gmail.com"
 * git config --global user.name "Aman Bisht"
+
+
 
 
 ### Getting & Creating Projects
