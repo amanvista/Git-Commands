@@ -27,7 +27,7 @@ Git Commands
 
 | Command | Description |
 | ------- | ----------- |
-| `git checkout <hash value> `| checkout to particular hash | 
+| `git checkout <commit hash code/branch name> `| checkout to particular hash | 
 | `git branch` | List branches (the asterisk denotes the current branch) |
 | `git branch -a` | List all branches (local and remote) |
 | `git branch [branch name]` | Create a new branch |
@@ -65,3 +65,7 @@ Git Commands
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+### Ignore Version Control
+
+| `.gitignore` | Ignore files |
