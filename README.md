@@ -1,10 +1,9 @@
 Git Commands
 ============
 
-## Translated Versions
-- [Versão em português](READMEpt.md)
-- [Versión en español](READMEes.md)
-- [Türkçe versiyon](READMEtr.md)
+Setup Email and Username
+git config --global user.email "amanvista@gmail.com"
+git config --global user.name "Aman Bisht"
 
 ___
 
