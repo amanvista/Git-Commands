@@ -27,6 +27,7 @@ Git Commands
 
 | Command | Description |
 | ------- | ----------- |
+| `git checkout <hash value> | checkout to particular hash | 
 | `git branch` | List branches (the asterisk denotes the current branch) |
 | `git branch -a` | List all branches (local and remote) |
 | `git branch [branch name]` | Create a new branch |
