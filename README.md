@@ -1,6 +1,7 @@
 Git Commands
 ============
-
+### Git Checkout
+* git checkout -- .
 ### Creating RSA key in MAC
 * ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 * eval "$(ssh-agent -s)"
