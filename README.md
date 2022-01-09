@@ -1,5 +1,9 @@
 Git Commands
 ============
+### GIT Remove
+*  git remote add origin git@github.com:amanvista/Movie-Watchlist.git
+*  git remote set-url origin git@github.com:amanvista/Movie-Watchlist.git
+*  git push -u origin master
 ### Git Checkout
 * git checkout -- .
 ### Creating RSA key in MAC
