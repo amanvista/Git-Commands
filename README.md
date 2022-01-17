@@ -5,6 +5,7 @@ Git Commands
 *  git remote set-url origin git@github.com:amanvista/Movie-Watchlist.git
 *  git push -u origin master
 ### deleting accidently deleted file
+* git gc --prune=now --aggressive : removing all files greater than 100 MB
 * git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch mern.mp4' --prune-empty --tag-name-filter cat -- --all
 ### Git Checkout
 * git checkout -- .
